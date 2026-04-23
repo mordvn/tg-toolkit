@@ -1,7 +1,7 @@
 # TG Toolkit Bot
 
 <div align="center">
-<img src="media/icon.png" alt="Icon" width="500">
+<img src="media/icon.png" alt="Icon" width="450">
 </div>
 <p align="center">A Telegram bot for technical chat data: chat IDs, user IDs, and compact metadata for integrations and debugging.</p>
 
