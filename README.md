@@ -49,6 +49,14 @@ Start the bot:
 uv run python app/main.py
 ```
 
+Or run with Docker Compose:
+
+```bash
+cp .env.example .env
+# set BOT_TOKEN in .env
+docker compose up --build -d
+```
+
 ### Available Commands
 
 - `/start` - Bot status and short intro
