@@ -3,7 +3,8 @@
 <div align="left">
 <img src="media/icon.png" alt="Icon" width="300">
 </div>
-<p align="left">A Telegram bot for technical chat data: chat IDs, user IDs, and compact metadata for integrations and debugging.</p>
+<p align="left">A Telegram bot for technical chat data: 
+  chat IDs, user IDs, and compact metadata for integrations and debugging.</p>
 
 ## Features
 
